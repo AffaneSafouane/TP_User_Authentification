@@ -48,4 +48,7 @@ La page d'accueil s'adapte selon l'état de l'utilisateur :
 * Formulaire d'inscription pour créer un nouvel utilisateur.
 * Persistance du nouvel utilisateur en base de données via le `UserManager`.
 
+## Hébergement
+https://www.projet-web-training.ovh/licence02/TP_User_Authentification/
+
 **Contexte :** TP Développement Web - Backend
