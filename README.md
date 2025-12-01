@@ -56,7 +56,5 @@ https://www.projet-web-training.ovh/licence02/TP_User_Authentification/
 > * **Mot de passe :** Azerty
 > * **Email :** jane.doe@email.com
 > * **Mot de passe :** Qwerty
-> * **Email :** admin@email.com
-> * **Mot de passe :** Tyuifgh
 
 **Contexte :** TP Développement Web - Backend
