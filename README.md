@@ -51,10 +51,12 @@ La page d'accueil s'adapte selon l'état de l'utilisateur :
 ## Hébergement
 https://www.projet-web-training.ovh/licence02/TP_User_Authentification/
 
-> Identifiants de la base de données fournie avec le projet (Import via phpMyadmin impossible via ovh) :
+> Identifiants de la base de données fournie avec le projet :
 > * **Email :** john.doe@email.com
 > * **Mot de passe :** Azerty
 > * **Email :** jane.doe@email.com
 > * **Mot de passe :** Qwerty
+> * **Email :** admin@email.com
+> * **Mot de passe :** Tyuifgh
 
 **Contexte :** TP Développement Web - Backend
